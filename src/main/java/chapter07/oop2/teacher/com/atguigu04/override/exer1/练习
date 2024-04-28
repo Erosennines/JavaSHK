@@ -1,0 +1,2 @@
+修改继承内容的练习1中定义的Kids类，在Kids中重新定义employee()方法
+覆盖父类ManKind中定义的employee()方法，输出"Kids should study and no job"
