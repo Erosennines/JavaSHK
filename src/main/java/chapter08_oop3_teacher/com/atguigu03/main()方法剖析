@@ -1,0 +1,8 @@
+public static void main(String args[]) {}
+
+1. 理解1：看做是一个普通方法
+   理解2：看做是程序的入口，格式是固定的
+
+2. 与控制台交互
+> 方法1：使用Scanner
+> 方法2：使用main()方法形参
